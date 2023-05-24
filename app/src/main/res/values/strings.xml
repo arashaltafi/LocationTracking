@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Location Tracking</string>
+    <string name="widget_location_name_unknown">Unknown</string>
+    <string name="map_box_token">pk.eyJ1IjoibmFoYWRzb2Z0d2FyZSIsImEiOiJja3pmNTR5NzAxOWJjMnNvNmlzbWVwYnNpIn0.g28CloXCSe4OdYko1CM-iQ</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Start Service</string>
+</resources>

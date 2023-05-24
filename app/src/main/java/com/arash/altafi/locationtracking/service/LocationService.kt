@@ -68,6 +68,7 @@ class LocationService : Service() {
             .setContentText("Location is (${location?.latitude}, ${location?.longitude})")
             .setSmallIcon(R.drawable.ic_launcher_foreground)
             .setSilent(true)
+            .setOngoing(true)
             .build()
 
         startForeground(1234, notification)
